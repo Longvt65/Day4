@@ -1,1 +1,18 @@
 /* YOUR STYLE GOES IN HERE */
+.card {
+    width: 250px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: #FFBFA9;
+    text-align: center;
+    padding: 10px;
+}
+
+img{
+    width: 200px;
+    border-style: solid;
+    border-width: 6px;
+    border-color: #FBFFB1;
+    border-radius: 25% 10%;
+    background-color: #FFACAC;
+}
